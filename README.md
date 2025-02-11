@@ -1,6 +1,6 @@
 # ai_url_aggregator
 
-> **Note**: *This is a small experimental library, provided as-is.
+> **Note**: *This is a small experimental library, provided as-is.*
 
 **ai_url_aggregator** is a Python tool that leverages **Perplexity** and **OpenAI** to search the internet for relevant URLs, filter and deduplicate them, check their availability, and then select the most important ones based on GPT analysis.
 
