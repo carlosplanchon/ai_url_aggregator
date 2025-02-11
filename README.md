@@ -1,4 +1,3 @@
-```markdown
 # ai_url_aggregator
 
 > **Note**: *This is a small experimental library, provided as-is.
