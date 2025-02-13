@@ -108,6 +108,14 @@ print("--- Most Important Websites ---")
 prettyprinter.cpprint(most_important_websites)
 ```
 
+Result (Main real state agencies in Uruguay):
+```python
+[
+    'https://www.infocasas.com.uy',
+    'https://www.casasweb.com.uy',
+    'https://www.mercadolibre.com.uy/inmuebles',
+    'https://www.uruguayinmobiliarias.com'
+]
 ---
 
 ## License
